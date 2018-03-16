@@ -1,0 +1,16 @@
+label{
+    background-color:violet;
+    text-align: center;
+}
+body{
+    text-align: left;
+}
+form{
+    background-color: cadetblue;
+}
+input{
+    color:red;
+}
+input:hover{
+    color:green;
+}

@@ -1,0 +1,23 @@
+ul li {
+    text-decoration-style: none;
+    float:right;
+    margin-top:-5px;
+    padding: 2px;
+
+}
+h1{
+    text-align:center;
+}
+#k{
+    background-color:olive;
+    color:goldenrod;
+}
+input{
+    color:red;
+}
+input:hover{
+    color:green;
+}
+#l{
+    text-align:center;
+}

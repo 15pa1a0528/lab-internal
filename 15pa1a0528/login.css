@@ -1,0 +1,16 @@
+body{
+    text-align: left;
+    padding:4px;
+}
+label{
+    text-align: center;
+}
+form{
+    background-color: cadetblue;
+}
+input{
+    color:red;
+}
+input:hover{
+    color:green;
+}
